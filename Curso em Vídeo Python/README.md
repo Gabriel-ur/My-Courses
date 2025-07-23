@@ -25,4 +25,4 @@ My goal with this course was to build a strong foundation in Python programming 
 
 ## 📝 Notes
 
-📝 All code is written and tested by me as part of my learning journey.
+All code is written and tested by me as part of my learning journey.
