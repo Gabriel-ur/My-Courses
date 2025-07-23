@@ -1,0 +1,13 @@
+> SQL é uma linguagem de programação para manipular e gerenciar bancos de dados relacionais
+
+* * um banco de dados relacional é uma organização de dados em tabelas que se relacionam entre si através de chaves
+
+SQL pode:
+
+- Criar tabelas e bancos de dados
+
+- Inserir, atualizar e deletar dados
+
+- Fazer consultas para buscar informações específicas
+
+- Controlar permissões de acesso
