@@ -23,6 +23,4 @@ Each file or folder inside represents a lesson or a group of exercises, followin
 
 My goal with this course was to build a strong foundation in Python programming by practicing consistently.
 
----
-
 📝 All code is written and tested by me as part of my learning journey.
