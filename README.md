@@ -1,11 +1,12 @@
-# 📚 My Courses
+# 📚 Meus Cursos
 
-This repository is a personal space for organizing and documenting notes, exercises, and projects from various online courses I have completed. It helps me keep track of my learning journey and apply new skills in practical ways.
+Este repositório é um espaço pessoal para organizar e documentar **anotações, exercícios e projetos** de diversos cursos online que concluí.  
+Ele me ajuda a acompanhar minha jornada de aprendizado e aplicar novas habilidades de forma prática.  
 
-Inside, you will find:
+Dentro dele, você encontrará:
 
-- 📝 Summaries and detailed notes from different courses
-- 💻 Coding exercises and challenges
-- 📂 Projects developed as part of the learning process
+📝 Resumos e anotações detalhadas de diferentes cursos  
+💻 Exercícios e desafios de programação  
+📂 Projetos desenvolvidos como parte do processo de aprendizado  
 
-The content is updated as I explore new topics and deepen my knowledge.
+O conteúdo é atualizado conforme exploro novos tópicos e aprofundo meus conhecimentos.  
